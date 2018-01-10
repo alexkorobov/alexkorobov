@@ -39,7 +39,8 @@ body {
   }
   
   #footer {
-      margin-top: 64px;
-      text-align: center;
+      margin-top: 164px;
+      text-align: right;
+      align-content: center;
   }
   
